@@ -190,7 +190,7 @@
       return;
     }
   
-    new PuzzleRenderer(new Puzzle(5), canvas);
+    new PuzzleRenderer(new Puzzle(30), canvas);
   })();
    
   
